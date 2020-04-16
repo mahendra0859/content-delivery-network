@@ -18,4 +18,4 @@
 
 - CDN : https://gitcdn.link/repo/mahendra0859/content-delivery-network/master/js/modernizr.custom.53451.js
 
-\*min CDN: https://min.gitcdn.link/repo/mahendra0859/content-delivery-network/master/js/modernizr.custom.53451.js
+- min CDN: https://min.gitcdn.link/repo/mahendra0859/content-delivery-network/master/js/modernizr.custom.53451.js
